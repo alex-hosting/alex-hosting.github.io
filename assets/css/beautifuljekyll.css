@@ -378,7 +378,7 @@ img {
 footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: 3.125rem;
+  /* margin-top: 3.125rem; */
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
@@ -408,7 +408,7 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  margin: 0.625rem 0 0;
+  /* margin: 0.625rem 0 0; */
 }
 footer .footer-custom-content {
   text-align: center;
@@ -597,7 +597,7 @@ footer .footer-custom-content {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 5rem 0 1.25rem;
+  margin: 5rem 0 0;
   position: relative;
 }
 .intro-header.big-img {
@@ -607,7 +607,7 @@ footer .footer-custom-content {
   background-size: cover;
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
-  margin-bottom: 2.1875rem;
+  /* margin-bottom: 2.1875rem; */
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
