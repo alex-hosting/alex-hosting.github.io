@@ -376,7 +376,7 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
+  padding: 10vh 0;
   border-top: 1px #EAEAEA solid;
   /* margin-top: 3.125rem; */
   font-size: 0.875rem;
@@ -418,7 +418,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    padding: 10vh 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
