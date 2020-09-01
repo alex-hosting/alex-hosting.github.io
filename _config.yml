@@ -9,11 +9,13 @@ author: Diego Grados Bedoya
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "research"
-  Profile: "profile"
-  Publications: "publications"
-  About Me: "aboutme"
-  Home: "https://deanattali.com"
+  <i class="fa fa-area-chart" aria-hidden="true" fa-2x></i> Research: "research"
+  <i class="fa fa-graduation-cap" aria-hidden="true" fa-2x></i> Profile: "profile"
+  <i class="fa fa-leaf" aria-hidden="true" fa-2x></i> About me: "aboutme"
+  <i class="far fa-copy"></i> Publications: "publications"
+  <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
+  <i class="fa fa-file-text" aria-hidden="true"></i> Resume: "resume/resume.pdf"
+  <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
 
 # --- Logo --- #
 
@@ -26,7 +28,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #
