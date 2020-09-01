@@ -37,9 +37,9 @@ title-img: "/img/avatar/pic_avatar.jpg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "diegogradosb@gmail.com"
-  facebook: deanattali
+#   facebook: deanattali
   github: diegogradosb
-  twitter: diegogradosb
+#   twitter: diegogradosb
 #  reddit: yourname
   linkedin: diegogradosb
 #  xing: yourname
@@ -54,9 +54,9 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
   calendly: "diegogradosb"
-  researchgate: diegogradosb
+#   researchgate: diegogradosb
 #  mastodon: instance.url/@username
-  ORCID: "0000-0001-5548-3204"
+#   ORCID: "0000-0001-5548-3204"
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
