@@ -323,10 +323,6 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
 }
 
-.avatar-container {
-  left: 20%;
-}
-
 .navbar-custom.top-nav-short .avatar-container {
   opacity: 0;
   visibility: hidden;
@@ -991,4 +987,8 @@ pre {
 .center {
   display: block;
   margin: 0 auto;
+}
+
+.avatar-container {
+  left: 60px;
 }
