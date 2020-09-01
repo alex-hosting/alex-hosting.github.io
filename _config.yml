@@ -9,12 +9,12 @@ author: Diego Grados Bedoya
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  <i class="fa fa-area-chart" aria-hidden="true" fa-2x></i> Research: "research"
+  <i class="fas fa-chart-area"></i> Research: "research"
   <i class="fa fa-graduation-cap" aria-hidden="true" fa-2x></i> Profile: "profile"
   <i class="fa fa-leaf" aria-hidden="true" fa-2x></i> About me: "aboutme"
   <i class="far fa-copy"></i> Publications: "publications"
   <i class="fa fa-question" aria-hidden="true" fa-2x></i> Contact: "contact"
-  <i class="fa fa-file-text" aria-hidden="true"></i> Resume: "resume/resume.pdf"
+  <i class="far fa-file-alt"></i> Resume: "resume/resume.pdf"
   <i class="fa fa-search" aria-hidden="true" fa-2x></i> : "search"
 
 # --- Logo --- #
