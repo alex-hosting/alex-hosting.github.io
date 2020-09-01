@@ -129,7 +129,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  border-bottom: 3px solid #b1c8c6;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -377,7 +377,7 @@ img {
 
 footer {
   padding: 10vh 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 3px solid #b1c8c6;
   /* margin-top: 3.125rem; */
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
